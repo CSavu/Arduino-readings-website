@@ -1,0 +1,20 @@
+.container-fluid {
+  padding: 3% 20%;
+  padding-bottom: 4%;
+}
+
+body {
+  font-family: "Monsterrat", sans-serif;
+  text-align: center;
+}
+
+#title {
+  background-color: white;
+  color: 	#008B8B;
+}
+
+h1 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3.5rem;
+  line-height: : 1.5;
+}
